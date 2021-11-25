@@ -9,7 +9,7 @@ body {
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
-    color: white;
+    
 }
 
 h2 {
@@ -40,7 +40,4 @@ button {
 
 #reset-btn {
     background: rgb(190, 88, 3);
-}
-#save-el {
-    color: white;
 }
