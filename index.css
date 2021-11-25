@@ -1,5 +1,5 @@
 body {
-    background-image: url("station.jpg");
+    background-image: url("gradient.jpg");
     background-size: cover;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
@@ -9,12 +9,14 @@ body {
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
+    color: white;
 }
 
 h2 {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
+    color: white;
 }
 
 button {
@@ -36,3 +38,9 @@ button {
     background: darkgreen;
 }
 
+#reset-btn {
+    background: rgb(190, 88, 3);
+}
+#save-el {
+    color: white;
+}
